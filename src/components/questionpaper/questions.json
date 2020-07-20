@@ -1,0 +1,26 @@
+[
+    { 
+        "question": "who invented the bulb ?",
+        "optionA":"Tom Cruse",
+        "optionB":"Dev Sena",
+        "optionC":"Thomas Edison",
+        "optionD":"Bahubali",
+        "answer" : "Thomas Edison"
+    },
+    { 
+        "question": "who is hero in MI ?",
+        "optionA":"Tom Cruse",
+        "optionB":"Dev Sena",
+        "optionC":" Thomas Edison",
+        "optionD":"Bahubali",
+        "answer" : "Bahubali"
+    },
+       { 
+        "question": "Allu Arjun is hero of which state ?",
+        "optionA":"MH",
+        "optionB":"Haydrabad",
+        "optionC":"Panjab",
+        "optionD":"non od these",
+        "answer" : "Haydrabad"
+    }
+]
