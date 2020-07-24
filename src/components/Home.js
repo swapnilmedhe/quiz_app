@@ -21,14 +21,14 @@ import { Link } from 'react-router-dom';
              
                  <div className="row auth-button" id="login-button">
                      <ul>
-                         <li> <Link className="signupbtn" to="/login"> Log In</Link></li>
+                         <li> <Link className="signupbtn" to="#"> Log In</Link></li>
                      </ul>
                      
                  </div>
                  <div className=" row auth-button" id="signup-button">
                        
                        <ul>
-                       <Link className="signupbtn" to="/register"> Register</Link>
+                       <Link className="signupbtn" to="#"> Register</Link>
                      </ul>
                  </div>
               </div>

@@ -8,19 +8,58 @@
         "answer" : "Thomas Edison"
     },
     { 
-        "question": "who is hero in MI ?",
-        "optionA":"Tom Cruse",
-        "optionB":"Dev Sena",
-        "optionC":" Thomas Edison",
-        "optionD":"Bahubali",
-        "answer" : "Bahubali"
+        "question": "Durand Cup is associated with the game of ",
+        "optionA":"Crickete",
+        "optionB":"Football",
+        "optionC":"Hockey",
+        "optionD":"All",
+        "answer" : "Football"
     },
        { 
-        "question": "Allu Arjun is hero of which state ?",
-        "optionA":"MH",
-        "optionB":"Haydrabad",
-        "optionC":"Panjab",
-        "optionD":"non od these",
-        "answer" : "Haydrabad"
+        "question": "The Indian, who holds the pride of beating the computers in mathematical wizard is ?",
+        "optionA":"Shakuntala Devi",
+        "optionB":"Raja Ramanna",
+        "optionC":"Ramanujam",
+        "optionD":"Rina Panigrahi",
+        "answer" : "Shakuntala Devi"
+    }, { 
+        "question": "Entomology is the science that studies?",
+        "optionA":"Behaviour of human beings",
+        "optionB":"Insects",
+        "optionC":"The origin and history of technical and scientific terms",
+        "optionD":"The formation of rocks",
+        "answer" : "Insects"
+    },
+    { 
+        "question": "The world smallest country is?",
+        "optionA": "Canada",
+        "optionB":"Russia",
+        "optionC":"Maldives",
+        "optionD":"Vatican City",
+        "answer" : "Vatican City"
+    }, 
+     { 
+        "question": " What is the second largest country (in size) in the world?",
+        "optionA": "Canada",
+        "optionB":"USA",
+        "optionC":"China",
+        "optionD":"Russia",
+        "answer" : "Canada"
+    },
+    { 
+        "question": "Which language is spoken in Karnataka?",
+        "optionA": "Marathi",
+        "optionB":"Hindi",
+        "optionC":"Malayalam",
+        "optionD":"Kannada",
+        "answer" : "Kannada"
+    },
+    { 
+        "question": "Ball pen function on which one of the following principal?",
+        "optionA": "Boyle’s law",
+        "optionB":"Gravitational force",
+        "optionC":"Surface tension",
+        "optionD":"Viscosity",
+        "answer" : "Surface tension"
     }
 ]
